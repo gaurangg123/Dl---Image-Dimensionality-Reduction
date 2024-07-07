@@ -22,8 +22,8 @@ This project showcases the application of autoencoders for reducing the dimensio
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/yourusername/image-dim-reduction-sentiment-analysis.git](https://github.com/gaurangg123/Dl---Image-Dimensionality-Reduction)
-    cd image-dim-reduction-sentiment-analysis
+    git clone https://github.com/gaurangg123/Dl---Image-Dimensionality-Reduction
+    cd Dl---Image-Dimensionality-Reduction
     ```
 
 2. Install the required packages:
@@ -37,7 +37,7 @@ This project showcases the application of autoencoders for reducing the dimensio
     ```sh
     jupyter notebook
     ```
-2. Open the `image_dim_reduction_sentiment_analysis.ipynb` file and run all cells.
+2. Open the `untitled0.ipynb` file and run all cells.
 
 ## Model Architecture
 
