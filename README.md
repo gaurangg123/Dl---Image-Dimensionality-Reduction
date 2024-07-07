@@ -22,7 +22,7 @@ This project showcases the application of autoencoders for reducing the dimensio
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/image-dim-reduction-sentiment-analysis.git
+    git clone [https://github.com/yourusername/image-dim-reduction-sentiment-analysis.git](https://github.com/gaurangg123/Dl---Image-Dimensionality-Reduction)
     cd image-dim-reduction-sentiment-analysis
     ```
 
